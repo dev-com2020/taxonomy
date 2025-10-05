@@ -1,0 +1,14 @@
+created_by:
+version: 3
+task_description: Knowlege controibution about the lmstudio model
+seed_examples:
+  - question: What is TinyLama
+    answer: TinyLama is a series of decoder-only AI.
+  - question: What is TinyLama?
+    answer: TinyLama is a series of decoder-only AI.
+  - question: What is TinyLama?!
+    answer: TinyLama is a series of decoder-only AI.
+  - question: What is TinyLama??!
+    answer: TinyLama is a series of decoder-only AI.
+  - question: What is TinyLama!!?
+    answer: TinyLama is a series of decoder-only AI.
